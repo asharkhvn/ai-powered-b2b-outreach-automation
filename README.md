@@ -24,6 +24,10 @@ The system can:
 
 Research → AI Analysis → Personalized Outreach → Human Approval → Gmail → Follow-Up → Reply Detection → Stop
 
+## Architecture
+
+![AI-Powered B2B Outreach Automation Architecture](architecture.png)
+
 ## Built With
 
 - Google Sheets
